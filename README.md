@@ -4,3 +4,4 @@
 - React, Styled-Component 사용
 - 상태관리 라이브러리 Recoil 사용
 - TypeScript 사용
+- react-tooltip 
